@@ -11,5 +11,6 @@ void setup() { //denne her skal vi fikse//
 
 // the loop function runs over and over again until power down or reset
 void loop() { 
-	//TTT
+//Hygge Hyggen76 er legende
+
 }
